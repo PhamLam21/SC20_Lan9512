@@ -1,1 +1,1 @@
-Embedded Computer: LCD, touch, GNSS, sim, wifi, USB, Lan
+Embedded Computer: LCD, touch, GNSS, sim, wifi, USB, Lan, GPIO
